@@ -1,0 +1,11 @@
+##.swal2-container
+tools.bugscaner.com##.v-modal
+tools.bugscaner.com##.el-dialog__body
+tools.bugscaner.com##.el-dialog__header
+tools.bugscaner.com##.el-dialog__footer
+tools.bugscaner.com###first
+###MlPlist1
+###MlTlist1
+###MlPlist2
+##.a-single, .a-1
+##.da
