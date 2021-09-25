@@ -1,9 +1,12 @@
+<!--解决部分edge浏览器访问api88.net无法正常使用的状况-->
 ##.swal2-container
+<!--屏蔽tools.bugscaner.com的扫码使用-->
 tools.bugscaner.com##.v-modal
 tools.bugscaner.com##.el-dialog__body
 tools.bugscaner.com##.el-dialog__header
 tools.bugscaner.com##.el-dialog__footer
 tools.bugscaner.com###first
+<!--拦截器拦截无法拦截的部分广告-->
 ###MlPlist1
 ###MlTlist1
 ###MlPlist2
