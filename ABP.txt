@@ -6,6 +6,8 @@ tools.bugscaner.com##.el-dialog__body
 tools.bugscaner.com##.el-dialog__header
 tools.bugscaner.com##.el-dialog__footer
 tools.bugscaner.com###first
+<!--屏蔽下载musictool时的二维码-->
+##.jconfirm, .jconfirm-modern, .jconfirm-open
 <!--拦截器拦截无法拦截的部分广告-->
 ###MlPlist1
 ###MlTlist1
