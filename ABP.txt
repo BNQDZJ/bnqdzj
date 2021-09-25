@@ -12,3 +12,4 @@ tools.bugscaner.com###first
 ###MlPlist2
 ##.a-single, .a-1
 ##.da
+##.joe_index__ad
