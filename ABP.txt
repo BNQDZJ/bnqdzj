@@ -1,5 +1,5 @@
 <!--解决部分edge浏览器访问api88.net无法正常使用的状况-->
-##.swal2-container
+api88.net##.swal2-container
 <!--屏蔽tools.bugscaner.com的扫码使用-->
 tools.bugscaner.com##.v-modal
 tools.bugscaner.com##.el-dialog__body
@@ -7,11 +7,4 @@ tools.bugscaner.com##.el-dialog__header
 tools.bugscaner.com##.el-dialog__footer
 tools.bugscaner.com###first
 <!--屏蔽下载musictool时的二维码-->
-##.jconfirm, .jconfirm-modern, .jconfirm-open
-<!--拦截器拦截无法拦截的部分广告-->
-###MlPlist1
-###MlTlist1
-###MlPlist2
-##.a-single, .a-1
-##.da
-##.joe_index__ad
+tool.yijingying.com##.jconfirm, .jconfirm-modern, .jconfirm-open
