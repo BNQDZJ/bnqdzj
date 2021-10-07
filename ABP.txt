@@ -9,4 +9,4 @@ tools.bugscaner.com###first
 <!--屏蔽下载musictool时的二维码-->
 tool.yijingying.com##.jconfirm, .jconfirm-modern, .jconfirm-open
 <!--屏蔽mvcat.com的扫码使用-->
-mvcat.com##div.wxfollow:nth-child(34)
+mvcat.com##.wxfollow
