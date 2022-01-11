@@ -1,5 +1,3 @@
-<!--解决部分edge浏览器访问api88.net无法正常使用的状况-->
-api88.net##.swal2-container
 <!--屏蔽tools.bugscaner.com的扫码使用-->
 tools.bugscaner.com##.v-modal
 tools.bugscaner.com##.el-dialog__body
@@ -10,5 +8,3 @@ tools.bugscaner.com###first
 tool.yijingying.com##.jconfirm, .jconfirm-modern, .jconfirm-open
 <!--屏蔽mvcat.com的扫码使用-->
 mvcat.com##.wxfollow
-<!--屏蔽api.eebbk.top的背景图片-->
-||api.eebbk.top^
