@@ -10,3 +10,5 @@ tools.bugscaner.com###first
 tool.yijingying.com##.jconfirm, .jconfirm-modern, .jconfirm-open
 <!--屏蔽mvcat.com的扫码使用-->
 mvcat.com##.wxfollow
+<!--屏蔽api.eebbk.top的背景图片-->
+||api.eebbk.top^
