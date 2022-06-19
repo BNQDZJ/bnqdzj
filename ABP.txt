@@ -8,3 +8,6 @@ tools.bugscaner.com###first
 tool.yijingying.com##.jconfirm, .jconfirm-modern, .jconfirm-open
 <!--屏蔽mvcat.com的扫码使用-->
 mvcat.com##.wxfollow
+<!--wx.stariverpan.com的误拦截>
+wx.stariverpan.com#@#.share-btn
+wx.stariverpan.com#@#.share-list
