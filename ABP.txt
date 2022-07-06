@@ -11,3 +11,7 @@ mvcat.com##.wxfollow
 <!--wx.stariverpan.com的误拦截>
 wx.stariverpan.com#@#.share-btn
 wx.stariverpan.com#@#.share-list
+<!--Bilibili分享误拦截-->
+bilibili.com#@#.share-btns
+bilibili.com#@#.share-btn
+bilibili.com#@#.share-link
