@@ -15,3 +15,5 @@ wx.stariverpan.com#@#.share-list
 bilibili.com#@#.share-btns
 bilibili.com#@#.share-btn
 bilibili.com#@#.share-link
+<!--Bilibili直播抽奖误拦截-->
+@@||live.bilibili.com^$removeparam=from
