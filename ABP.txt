@@ -17,4 +17,4 @@ bilibili.com#@#.share-btn
 bilibili.com#@#.share-link
 bilibili.com#@#.share-wrap
 <!--自用规则-->
-||api.ayao.ltd/images/
+api.ayao.ltd/images/
