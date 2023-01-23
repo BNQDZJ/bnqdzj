@@ -13,3 +13,6 @@ bilibili.com#@#.share-wrap
 api.ayao.ltd/images/
 <!--www.mvcat.com微信扫码-->
 mvcat.com##.wxfollow
+<!--白名单-->
+@@||live.bilibili.com
+@@||ip.skk.moe
