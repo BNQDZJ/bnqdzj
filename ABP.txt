@@ -11,3 +11,5 @@ bilibili.com#@#.share-link
 bilibili.com#@#.share-wrap
 <!--自用规则-->
 api.ayao.ltd/images/
+<!--www.mvcat.com微信扫码-->
+mvcat.com##.wxfollow
